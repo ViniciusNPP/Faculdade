@@ -1,0 +1,74 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.dashboard{
+    display:grid;
+    grid-template-columns:200px 1fr;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    min-height: 50px;
+    gap:20px;
+}
+
+.card1 {
+    background-color: rgb(229, 243, 255);
+}
+
+.card2 {
+    background-color: red;
+}
+
+.card3 {
+    background-color: purple;
+}
+
+.card4 {
+    background-color: green;
+}
+
+.card5 {
+    background-color: yellow;
+}
+
+.card6 {
+    background-color: pink;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    max-width: 100px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    .cards {
+        grid-template-columns: 1fr;
+    }
+    .dashboard {
+        display: flex;
+        flex-direction: column;
+    }
+    ul {
+        flex-direction: row;
+        gap: 20px;
+    }
+}

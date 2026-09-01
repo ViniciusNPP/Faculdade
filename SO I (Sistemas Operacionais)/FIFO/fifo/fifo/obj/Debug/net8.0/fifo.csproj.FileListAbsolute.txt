@@ -1,0 +1,14 @@
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\bin\Debug\net8.0\fifo.exe
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\bin\Debug\net8.0\fifo.deps.json
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\bin\Debug\net8.0\fifo.runtimeconfig.json
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\bin\Debug\net8.0\fifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\bin\Debug\net8.0\fifo.pdb
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.AssemblyInfoInputs.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.AssemblyInfo.cs
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\refint\fifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.pdb
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\fifo.genruntimeconfig.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\FIFO\fifo\fifo\obj\Debug\net8.0\ref\fifo.dll

@@ -1,0 +1,14 @@
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\bin\Debug\net8.0\lifo.exe
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\bin\Debug\net8.0\lifo.deps.json
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\bin\Debug\net8.0\lifo.runtimeconfig.json
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\bin\Debug\net8.0\lifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\bin\Debug\net8.0\lifo.pdb
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.AssemblyInfoInputs.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.AssemblyInfo.cs
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.csproj.CoreCompileInputs.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\refint\lifo.dll
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.pdb
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\lifo.genruntimeconfig.cache
+C:\Users\rapos\Documents\Programação\C#\Projeto SO\LIFO\lifo\lifo\obj\Debug\net8.0\ref\lifo.dll

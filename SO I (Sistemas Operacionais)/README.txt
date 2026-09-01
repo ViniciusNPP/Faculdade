@@ -1,0 +1,1 @@
+Trabalho de faculdade que era preciso simular 3 tipos de algoritmos de escalonamento, FIFO, LIFO e Round Robin.

@@ -1,0 +1,103 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0px
+}
+
+.carrossel{
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    background: #f4f4f4;
+    white-space: nowrap;
+}
+
+.trilho {
+    display: inline-flex;
+    gap: 5px;
+    animation: rolar 60s linear infinite;
+}
+
+.imagens-corrossel{
+    width: 700px;
+    height: 700px;
+}
+
+@keyframes rolar {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(90, 90, 90);
+    padding: 0px 10px;
+    margin-bottom: 10px;
+}
+
+.header-container-itens{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-item{
+    padding: 5px;
+    border-radius: 25%;
+    transition: transform 0.25s, background-color 0.25s;
+}
+
+.header-item:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+    background-color: rgb(145, 143, 143);
+}
+
+.fundo-opaco{
+    z-index: 10;
+}
+
+.sobre{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50%;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+    padding: 10px 10px;
+    gap: 10px;
+    background-color: rgb(90, 90, 90);
+}
+
+.img-footer {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+.projetos {
+    display: none;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    translate: -50%;
+    padding: 10px;
+    background-color: #f4f4f4;
+    gap: 10px;
+    width: 450px;
+}

@@ -1,0 +1,12 @@
+1- app.use(cors());
+
+2- Porque o Postman não aplica a política CORS, enquanto o navegador bloqueia o acesso à resposta quando o servidor não permite requisições de outra origem.
+
+3- Se o frontend rodar na mesma origem do servidor vai dar erro no frontend. Se tentar executar com uma origem diferente da especifica vai dar erro de página não encontrada.
+
+4- 
+0: Object { id: 1, nome: "Ana" }
+id: 1
+nome: "Ana"
+
+5- Limitar os métodos aumenta a segurança do site limitando a superfície de ataque.
